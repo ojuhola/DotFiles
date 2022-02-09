@@ -1,0 +1,6 @@
+
+# Network mounts
+# op 21.12.2020
+
+//Buffalo/Backups /mnt/Buffalo/Backups cifs credentials=/home/op/.smbcreds,iocharset=utf8,uid=op,file_mode=0640,dir_mode=0750,vers=2.0
+//Buffalo/Transfer /mnt/Buffalo/Transfer cifs credentials=/home/op/.smbcreds,iocharset=utf8,uid=op,file_mode=0640,dir_mode=0750,vers=2.0
